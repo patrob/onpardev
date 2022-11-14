@@ -4,6 +4,5 @@
 
 layout: home
 ---
-Hello world
 
-So cool - awesome
+Welcome to On Par Dev!
